@@ -132,7 +132,7 @@ For implementation into Symfony projects, please see [bundle documentation](basi
 
     ```yaml
     oauth2:
-        resource: '@LeagueOAuth2ServerBundle/config/routes.php'
+        resource: '@LeagueOAuth2ServerBundle/Resources/config/routes.php'
         type: php
     ```
 
